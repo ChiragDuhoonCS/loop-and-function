@@ -13,7 +13,7 @@ Enter your choice:*/
 #include<stdio.h>
 
 int sinterest(int p, int r, int t);
-int A = 'p(1+r/100)';
+int A = 'p(1+r/100) (here to create a merge conflict)';
 
 
 int sinterest(int p, int r, int t) {
